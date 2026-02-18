@@ -1,0 +1,2 @@
+# Instruction-Tuning-com-GPT-2-e-Avalia-o-com-LLM-as-a-Judge---Jhonnathas-Swerley
+Laborátório da disciplina de LLM. Com o objetivo de construir um dataset de instruções a partir de dados brutos, realizar o fine-tuning supervisionado do modelo GPT-2 para instruction following e avaliar os resultados utilizando LLM-as-a-Judge. Codigo base https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/01_main-chapter-code/ch07.ipynb
